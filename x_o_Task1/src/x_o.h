@@ -1,6 +1,6 @@
 
-#ifndef _X_O.H
-#define _X_O.H
+#ifndef _X_O
+#define _X_O
 
 #define board_rows 3
 #define board_cols 3

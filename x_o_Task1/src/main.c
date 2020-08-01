@@ -124,10 +124,12 @@ void print_board(){
             
 
         }
-         printf("|");
+         
+         printf("|\n");
 
-        printf("\n");
+        
     }
+    printf("_______________\n");
 }
 
 
